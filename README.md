@@ -4,14 +4,14 @@
 사용한 기능들은 express.js, mysql, html과 css 입니다.
 
 
-##express.js
+## express.js
 서버의 기능은 node.js로 구성하였고, 라우팅은 node.js의 express 모듈을 사용해 구현했습니다. 
 미들웨어 기능을 추가해 접속한 유저의 간단한 정보를 출력하도록 했습니다.
 
-##DB
+## DB
 관리 툴은 DBeaver를 사용했습니다. 회원의 id에는 primary key를 주어 중복되지 않게 하고, 서버에서 전환했던 AES 해시값을 pw로 저장하였습니다.
 
-##HTML&CSS
+## HTML&CSS
 페이지 관련 작업은 html파일을 작성해 서버에서 불러들여, 라우팅 경로로 전송했습니다. 
 
 
