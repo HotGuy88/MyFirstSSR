@@ -12,9 +12,9 @@
 ## DB
 관리 툴은 DBeaver를 사용했습니다. 회원의 id에는 primary key를 주어 중복되지 않게 하고, 서버에서 전환했던 AES 해시값을 pw로 저장하였습니다.
 
-## HTML&CSS    경로 : My_data/login.html
-경로 : 
-페이지 관련 작업은 html파일을 작성해 서버에서 불러들여, 라우팅 경로로 전송했습니다. 
+## HTML&CSS    경로 : My_data/signup.html
+페이지 관련 작업은 html파일을 작성해 서버에서 불러들여, 라우팅 경로로 전송했습니다.
+form태그를 이용해 client가 작성한 id와 pw정보를 전달했습니다.
 
 
 
