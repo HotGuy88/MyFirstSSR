@@ -1,1 +1,2 @@
-# MyFirstSSR
+# MyFirstSSR 설명
+
