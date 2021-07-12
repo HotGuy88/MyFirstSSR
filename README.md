@@ -4,8 +4,8 @@
 사용한 기능들은 express.js, mysql, html과 css 입니다.
 
 
-## express.js
-경로 : routes/main.js
+## express.js   경로 : routes/main.js
+
 서버의 기능은 node.js로 구성하였고, 라우팅은 node.js의 express 모듈을 사용해 구현했습니다. 
 미들웨어 기능을 추가해 접속한 유저의 간단한 정보를 출력하도록 했습니다.
 
